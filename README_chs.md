@@ -2,6 +2,9 @@
 
 这个子模组添加了一个约会按钮!
 
+> 翻译&润色：终不似、少年游  
+> Github: https://github.com/MAS-Submod-MoyuTeam/DateMonikaSubmod  
+
 ![thumbnail 45](https://user-images.githubusercontent.com/112249447/187029466-1b9df12c-4245-4c93-afe7-ee02cc99f2a1.png)
 
 ## 注意:

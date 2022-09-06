@@ -390,7 +390,7 @@ label park_leave:
                                   "\"Yes.\"":
                                             scene black
                                             pause 2
-                                            $ renpy.movie_cutscene("Submods/DateMonikaSubmod/Cafe-De-PVs-Guide.webm")
+                                            $ renpy.movie_cutscene("Submods/DateMonikaSubmod/Cafe-De-PVs-Guide.mp4")
                                             pause 1
                                             jump park_leave
 
