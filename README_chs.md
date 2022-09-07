@@ -19,7 +19,7 @@
 
 ## 教程 (如果你需要的话)
 
-1. 前往Release界面: https://github.com/wowm03/DateMonikaSubmod/releases/download/Latest/DateMonikaSubmod-1.0.1.zip
+1. 前往Release界面: https://github.com/MAS-Submod-MoyuTeam/Take-Monika-On-A-Date/releases
 
 2. 点击下载Zip.
 
